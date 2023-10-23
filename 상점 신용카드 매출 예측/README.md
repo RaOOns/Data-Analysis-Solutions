@@ -1,5 +1,7 @@
 # **상점 신용카드 매출 예측**
 
+https://dacon.io/competitions/official/140472/overview/description
+
 - 목적
     - 2016.06.01 ~ 2019.02.28의 신용카드 매출 데이터를 통해 2019.03.01 ~ 2019.05.31의 상점별 3개월 총 매출을 예측
     - 평가 척도: MAE
